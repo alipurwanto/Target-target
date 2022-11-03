@@ -1,6 +1,6 @@
 Target 2023
 - Memaximalkan keahlian pemrograman
 - Membuat aplikasi
-- Memiliki usaha dagang
 - Memahami alur kerja API
 - Membuat bot twitter
+- Memahami mesin learning
